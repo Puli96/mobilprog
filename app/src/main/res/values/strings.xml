@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">bead</string>
+    <string name="author">Pauli Gergő</string>
+    <string name="next">Következő</string>
 </resources>
